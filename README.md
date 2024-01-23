@@ -24,7 +24,7 @@ data manipulation operation.
 with a simple query.
  5. Create a view of all books and its number of copies that are currently available in
 the Library.
-### *********************************************************************************************************
+### ***********************************************************************************************
 ### Program 2:
 
 Aim: Discuss the various concepts on constraints and update operations.
@@ -43,7 +43,7 @@ ORDERS(Ord_No, Purchase_Amt, Ord_Date, Customer_id, Salesman_id)
  4. Create a view that finds the salesman who has the customer with the highest order of a day.
  5. Demonstrate the DELETE operation by removing salesman with id 1000. All his orders must 
 also be deleted.
-### *********************************************************************************************************
+### ***********************************************************************************************
 ### Program 3:
 
 Aim: Demonstrate the concepts of JOIN operations.
@@ -65,7 +65,7 @@ operation).
 the highest number of stars that movie received. Sort the result by
 movie title.
 5. Update rating of all movies directed by ‘Steven Spielberg’ to 5.
-### *********************************************************************************************************
+### ***********************************************************************************************
 ### Program 4:
 
 Aim: Introduce concepts of PLSQL and usage on the table.
@@ -90,7 +90,7 @@ for all students.
  If FinalIA = 12 to 16 then CAT = ‘Average’
  If FinalIA< 12 then CAT = ‘Weak’
 Give these details only for 8th semester A, B, and C section students.
-### *********************************************************************************************************
+### ***********************************************************************************************
 ### Program 5:
 
 Aim: Demonstrate the core concepts on table like nested and correlated nesting queries and also 
