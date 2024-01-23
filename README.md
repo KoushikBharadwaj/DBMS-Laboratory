@@ -5,6 +5,7 @@
 Aim: Demonstrating creation of tables, applying the view concepts on the tables.
 
 Program:Consider the following schema for a Library Database:
+
 BOOK(Book_id, Title, Publisher_Name, Pub_Year)
 BOOK_AUTHORS(Book_id, Author_Name)
 PUBLISHER(Name, Address, Phone)
@@ -29,6 +30,7 @@ the Library.
 Aim: Discuss the various concepts on constraints and update operations.
 
 Program: Consider the following schema for Order Database:
+
 SALESMAN(Salesman_id, Name, City, Commission)
 CUSTOMER(Customer_id, Cust_Name, City, Grade, Salesman_id)
 ORDERS(Ord_No, Purchase_Amt, Ord_Date, Customer_id, Salesman_id)
@@ -47,6 +49,7 @@ also be deleted.
 Aim: Demonstrate the concepts of JOIN operations.
 
 Program: Consider the schema for Movie Database:
+
 ACTOR(Act_id, Act_Name, Act_Gender)
 DIRECTOR(Dir_id, Dir_Name, Dir_Phone)
 MOVIES(Mov_id, Mov_Title, Mov_Year, Mov_Lang, Dir_id)
@@ -68,6 +71,7 @@ movie title.
 Aim: Introduce concepts of PLSQL and usage on the table.
 
 Program: Consider the schema for College Database:
+
 STUDENT(USN, SName, Address, Phone, Gender)
 SEMSEC(SSID, Sem, Sec)
 CLASS(USN, SSID)
@@ -93,6 +97,7 @@ Aim: Demonstrate the core concepts on table like nested and correlated nesting q
 
 EXISTS and NOT EXISTS keywords. 
 Program: Consider the schema for Company Database:
+
 EMPLOYEE(SSN, Name, Address, Sex, Salary, SuperSSN, DNo)
 DEPARTMENT(DNo, DName, MgrSSN, MgrStartDate)
 DLOCATION(DNo,DLoc)
