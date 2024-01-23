@@ -219,9 +219,14 @@ Give these details only for 8th semester A, B, and C section students.
 either as a worker or as a manager of the department that controls the project.
 2. Show the resulting salaries if every employee working on the ‘IoT’ project is given a 10 percent 
 raise.
-3. Find the sum of the salaries of all employees of the ‘Accounts’ department, as well as the maximum 
+4. Find the sum of the salaries of all employees of the ‘Accounts’ department, as well as the maximum 
 salary, the minimum salary, and the average salary in this department
-4. Retrieve the name of each employee who works on all the projects controlled by department 
+5. Retrieve the name of each employee who works on all the projects controlled by department 
 number 5 (use NOT EXISTS operator).
-5. For each department that has more than five employees, retrieve the department number and the 
+6. For each department that has more than five employees, retrieve the department number and the 
 number of its employees who are making more than Rs.6,00,000.
+
+
+## Contributors
+
+- [Koushik Bharadwaj R](https://github.com/KoushikBharadwaj)
