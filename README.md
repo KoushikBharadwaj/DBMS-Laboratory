@@ -227,6 +227,6 @@ number 5 (use NOT EXISTS operator).
 number of its employees who are making more than Rs.6,00,000.
 
 
-## Contributors
+## Contributor
 
 - [Koushik Bharadwaj R](https://github.com/KoushikBharadwaj)
